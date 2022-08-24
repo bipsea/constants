@@ -1,2 +1,3 @@
-# constants
-Constants for abis, contract addresses and subgraphs
+# Bipsea Constants
+
+JSON contract addresses, abis and subgraphs
