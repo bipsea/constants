@@ -1,0 +1,255 @@
+{
+	"ethereum": {
+		"chainId": "0x1",
+		"chainName": "Ethereum",
+		"nativeCurrency": {
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://rpc.ankr.com/eth"],
+		"blockExplorerUrls": ["https://etherscan.io"]
+	},
+	"polygon": {
+		"chainId": "0x89",
+		"chainName": "Polygon",
+		"nativeCurrency": {
+			"name": "Polygon",
+			"symbol": "MATIC",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://rpc.ankr.com/polygon"],
+		"blockExplorerUrls": ["https://explorer.matic.network"]
+	},
+	"fantom": {
+		"chainId": "0xfa",
+		"chainName": "Fantom",
+		"nativeCurrency": {
+			"name": "Fantom",
+			"symbol": "FTM",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://rpc.ankr.com/fantom"],
+		"blockExplorerUrls": ["https://ftmscan.com"]
+	},
+	"xdai": {
+		"chainId": "0x64",
+		"chainName": "xDai",
+		"nativeCurrency": {
+			"name": "xDai",
+			"symbol": "xDai",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://rpc.ankr.com/gnosis"],
+		"blockExplorerUrls": [" https://blockscout.com/xdai/mainnet"]
+	},
+	"bsc": {
+		"chainId": "0x38",
+		"chainName": "Binance Smart Chain",
+		"nativeCurrency": {
+			"name": "Binance Smart Chain",
+			"symbol": "BNB",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://rpc.ankr.com/bsc"],
+		"blockExplorerUrls": [" https://bscscan.com/"]
+	},
+	"arbitrum": {
+		"chainId": "0xa4b1",
+		"chainName": "Arbitrum",
+		"nativeCurrency": {
+			"name": "Arbitrum",
+			"symbol": "AETH",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://rpc.ankr.com/arbitrum"],
+		"blockExplorerUrls": ["https://arbiscan.io/"]
+	},
+	"avalanche": {
+		"chainId": "0xa86a",
+		"chainName": "Avalanche",
+		"nativeCurrency": {
+			"name": "Avalanche",
+			"symbol": "AVAX",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://rpc.ankr.com/avalanche"],
+		"blockExplorerUrls": ["https://snowtrace.io/"]
+	},
+	"fuji": {
+		"chainId": "0xa869",
+		"chainName": "Avalanche FUJI Testnet",
+		"nativeCurrency": {
+			"name": "Avalanche FUJI Testnet",
+			"symbol": "AVAX",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://rpc.ankr.com/avalanche_fuji"],
+		"blockExplorerUrls": ["https://testnet.snowtrace.io/"]
+	},
+	"harmony": {
+		"chainId": "0x63564c40",
+		"chainName": "Harmony",
+		"nativeCurrency": {
+			"name": "Harmony",
+			"symbol": "ONE",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://rpc.ankr.com/harmony"],
+		"blockExplorerUrls": ["https://explorer.harmony.one/"]
+	},
+	"kovan": {
+		"chainId": "0x2a",
+		"chainName": "Kovan",
+		"nativeCurrency": {
+			"name": "Kovan",
+			"symbol": "ETH",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://kovan.infura.io/v3/ddf1ca3700f34497bca2bf03607fde38"],
+		"blockExplorerUrls": ["https://kovan.etherscan.io"]
+	},
+	"mumbai": {
+		"chainId": "0x13881",
+		"chainName": "Mumbai",
+		"nativeCurrency": {
+			"name": "Mumbai",
+			"symbol": "MATIC",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://rpc.ankr.com/polygon_mumbai"],
+		"blockExplorerUrls": ["https://mumbai.polygonscan.com"]
+	},
+	"goerli": {
+		"chainId": "0x5",
+		"chainName": "Goerli",
+		"nativeCurrency": {
+			"name": "Goerli",
+			"symbol": "ETH",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://rpc.ankr.com/eth_goerli"],
+		"blockExplorerUrls": ["https://goerli.etherscan.io"]
+	},
+	"ropsten": {
+		"chainId": "0x3",
+		"chainName": "Ropsten",
+		"nativeCurrency": {
+			"name": "Ropsten",
+			"symbol": "ETH",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://rpc.ankr.com/eth_ropsten"],
+		"blockExplorerUrls": ["https://ropsten.etherscan.io"]
+	},
+	"rinkeby": {
+		"chainId": "0x4",
+		"chainName": "Rinkeby",
+		"nativeCurrency": {
+			"name": "Rinkeby",
+			"symbol": "ETH",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://rpc.ankr.com/eth_rinkeby"],
+		"blockExplorerUrls": ["https://rinkeby.etherscan.io"]
+	},
+	"cronos": {
+		"chainId": "0x19",
+		"chainName": "Cronos",
+		"nativeCurrency": {
+			"name": "Cronos",
+			"symbol": "CRO",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://evm-cronos.org"],
+		"blockExplorerUrls": ["https://cronos.org/explorer/"]
+	},
+	"optimism": {
+		"chainId": "0xa",
+		"chainName": "Optimism",
+		"nativeCurrency": {
+			"name": "Optimism",
+			"symbol": "ETH",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://rpc.ankr.com/optimism"],
+		"blockExplorerUrls": ["https://optimistic.etherscan.io"]
+	},
+	"celo": {
+		"chainId": "0xa4ec",
+		"chainName": "Celo",
+		"nativeCurrency": {
+			"name": "Celo",
+			"symbol": "CELO",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://rpc.ankr.com/celo"],
+		"blockExplorerUrls": ["https://explorer.celo.org"]
+	},
+	"aurora": {
+		"chainId": "0x4e454152",
+		"chainName": "Aurora",
+		"nativeCurrency": {
+			"name": "Aurora",
+			"symbol": "ETH",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://mainnet.aurora.dev"],
+		"blockExplorerUrls": ["https://aurorascan.dev"]
+	},
+	"eluvio": {
+		"chainId": "0xe93a9",
+		"chainName": "Eluvio",
+		"nativeCurrency": {
+			"name": "Eluvio",
+			"symbol": "ELV",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://host-76-74-28-226.contentfabric.io/eth"],
+		"blockExplorerUrls": ["https://explorer.eluv.io"]
+	},
+	"alfajores": {
+		"chainId": "0xaef3",
+		"chainName": "Alfajores",
+		"nativeCurrency": {
+			"name": "Alfajores",
+			"symbol": "CELO",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://alfajores-forno.celo-testnet.org"],
+		"blockExplorerUrls": ["https://alfajores-blockscout.celo-testnet.org"]
+	},
+	"xdc": {
+		"chainId": "0x32",
+		"chainName": "XDC",
+		"nativeCurrency": {
+			"name": "XDC Blockchain",
+			"symbol": "XDC",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://rpc.xinfin.network"],
+		"blockExplorerUrls": ["https://explorer.xinfin.network"]
+	},
+	"evmos": {
+		"chainId": "0x2329",
+		"chainName": "EVMOS",
+		"nativeCurrency": {
+			"name": "EVMOS",
+			"symbol": "EVMOS",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://eth.bd.evmos.org:8545"],
+		"blockExplorerUrls": ["https://evm.evmos.org"]
+	},
+	"evmosTestnet": {
+		"chainId": "0x2328",
+		"chainName": "EVMOS Testnet",
+		"nativeCurrency": {
+			"name": "EVMOS Testnet",
+			"symbol": "EVMOS",
+			"decimals": 18
+		},
+		"rpcUrls": ["https://eth.bd.evmos.dev:8545"],
+		"blockExplorerUrls": ["https://evm.evmos.dev"]
+	}
+}
