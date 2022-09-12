@@ -3,5 +3,10 @@
     "chain": "goerli",
     "uri": "https://api.studio.thegraph.com/query/5210/bipsea-goerli/v0.0.25",
     "currency": "ETH"
+  },
+  {
+    "chain": "polygon",
+    "uri": "https://api.thegraph.com/subgraphs/name/leon-do/bipsea-matic",
+    "currency": "MATIC"
   }
 ]
