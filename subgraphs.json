@@ -8,5 +8,10 @@
     "chain": "polygon",
     "uri": "https://api.thegraph.com/subgraphs/name/leon-do/bipsea-matic",
     "currency": "MATIC"
+  },
+  {
+    "chain": "optimism",
+    "uri": "https://api.thegraph.com/subgraphs/name/leon-do/bipsea-optimism",
+    "currency": "ETH"
   }
 ]
