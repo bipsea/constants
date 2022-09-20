@@ -13,5 +13,10 @@
     "chain": "optimism",
     "uri": "https://api.thegraph.com/subgraphs/name/leon-do/bipsea-optimism",
     "currency": "ETH"
-  }
+  },
+  {
+    "chain": "harmony",
+    "uri": "https://api.thegraph.com/subgraphs/name/leon-do/bipsea-harmony",
+    "currency": "ONE"
+  },
 ]
