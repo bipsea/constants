@@ -18,5 +18,5 @@
     "chain": "harmony",
     "uri": "https://api.thegraph.com/subgraphs/name/leon-do/bipsea-harmony",
     "currency": "ONE"
-  },
+  }
 ]
